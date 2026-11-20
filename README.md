@@ -33,6 +33,11 @@ One line per reply you sent:
 
 For example, if you (`Y`) and a friend (`F`) talk as `Y F Y F F Y Y F`, the samples are `YF → Y`, `YFYFF → YY` and so on: every reply of yours, given what came before it.
 
+## How to use it
+
+- For my use case I took a Qwen 2.5 7B 4bit quantized and created a LORA Adapter on top of it
+- [Sample Notebook](https://www.kaggle.com/code/kaushikdey2026/kaydee647-kaydee-qwen2-5-7b-lora-fine-tune)
+
 ## How the data is cleaned
 
 - **Encoding:** fixes Instagram's double-encoded text, so emojis and non-English characters come out right.
