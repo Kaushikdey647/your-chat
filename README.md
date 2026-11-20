@@ -1,4 +1,4 @@
-# micro-kaydee
+# your chat
 
 Turn your Instagram DM export into a chat fine-tuning dataset that teaches a model to reply the way **you** do.
 
