@@ -1,2 +1,8 @@
+# Instagram export and generated datasets are private: never commit them
 data/
 outputs/
+
+__pycache__/
+.venv/
+.DS_Store
+.vscode/
